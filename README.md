@@ -1,7 +1,7 @@
 # SistemaWebVentas-Productos
 Este es un sistema web, esta hecho con spring boot y MySQL
 
-# Comando para su ejecucion
+# Comando para su ejecución
 project/mvnw spring-boot:run
 
 # Probar el sistema 🙌
